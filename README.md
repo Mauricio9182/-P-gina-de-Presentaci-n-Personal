@@ -54,6 +54,8 @@ Verificado en los siguientes anchos, sin generar desplazamiento horizontal:
 - 320px (móvil)
 - 768px (tablet)
 - 1280px (escritorio)
+
+  
 -320
 <img width="968" height="902" alt="Captura de pantalla 2026-07-31 213432" src="https://github.com/user-attachments/assets/b58e7562-a83e-47e1-8975-fad74dbe86ef" />
 -768
